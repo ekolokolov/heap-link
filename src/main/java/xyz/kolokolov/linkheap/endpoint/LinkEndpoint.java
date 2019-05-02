@@ -8,6 +8,7 @@ import xyz.kolokolov.linkheap.repo.impl.LinkRepositoryImpl;
 
 import java.util.List;
 
+@CrossOrigin
 @RestController
 @RequestMapping("{channel}")
 public class LinkEndpoint {

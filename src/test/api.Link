@@ -6,9 +6,9 @@ POST http://localhost:8080/my
 Content-Type: application/json;charset=UTF-8
 
 {
-  "title": "мой сайт",
-  "url": "http://kolokolov.xyz",
-  "description": "новая ссылка"
+  "title": "пфр",
+  "url": "http://pfrf.ru",
+  "description": "Пенсионный фонд россии"
 }
 
 
